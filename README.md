@@ -10,7 +10,7 @@ I am a passionate .NET developer in the making who loves to solve problems.
 | [Labb2][labb2]           | Basic Store Console App | c#                  |
 | [Labb3][labb3]           | Quiz Game WPF App       | c#/xaml             |
 | [Webb-Labb1][webb-labb1] | Front End design        | html/css/javascript |
-| [webb-labb2][webb-labb2] | API                     | html/javascript/c#  |
+| [Webb-Labb2][webb-labb2] | API                     | html/javascript/c#  |
 
 [labb1]: https://github.com/ErikVerta/Labb1
 [labb2]: https://github.com/ErikVerta/Labb-2
