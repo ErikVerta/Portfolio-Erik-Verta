@@ -6,7 +6,7 @@ I am a passionate .NET developer in the making who loves to solve problems.
 
 | Repo                     | Description             | Language            |
 | ------------------------ | ----------------------- | ------------------- |
-| [Labb1][labb1]           | Baisc Algorithm         | c#                  |
+| [Labb1][labb1]           | Basic Algorithm         | c#                  |
 | [Labb2][labb2]           | Basic Store Console App | c#                  |
 | [Labb3][labb3]           | Quiz Game WPF App       | c#/xaml             |
 | [Webb-Labb1][webb-labb1] | Front End design        | html/css/javascript |
